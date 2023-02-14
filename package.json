@@ -1,0 +1,12 @@
+{
+  "name": "func-connection-cache",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongodb": "^5.0.1"
+  }
+}
